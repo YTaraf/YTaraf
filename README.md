@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Yahia Taraf 
 
 🎓 **Statistics & Machine Learning Enthusiast**  
-🔬 Aspiring ** Statistician / AI Researcher** |
+🔬 Aspiring **Statistician / AI Researcher** 
 
 ---
 
 ##  About Me
-- Passionate about **statistical analysis, computational statistics, and probability theory**  
+- Passionate about **Data analysis, Computational statistics, and Mathematical modeling**  
 - Strong foundation in **mathematics**, applied to data-driven research and ML methods  
 - Aspiring to pursue a **PhD in statistics or machine learning** and contribute to cutting-edge research  
 - Beyond academics, I enjoy **working out, hiking, and music**  
@@ -76,13 +76,6 @@
 - **Computational Statistics** – algorithms for large-scale and complex data  
 - **Probability Theory & Mathematics** – rigorous foundation for ML & AI  
 - **Machine Learning** – bridging statistical theory and real-world applications  
-
----
-
-## 🌟 Personal Interests
-- 🏋️‍♂️ Working out  
-- 🥾 Hiking  
-- 🎵 Music  
 
 ---
 
