@@ -6,10 +6,11 @@
 ---
 
 ##  About Me
-- Passionate about **Data analysis, Computational statistics, and Mathematical modeling**  
-- Strong foundation in **mathematics**, applied to data-driven research and ML methods  
-- Aspiring to pursue a **PhD in statistics or machine learning** and contribute to cutting-edge research  
-- Beyond academics, I enjoy **working out, hiking, and music**  
+I am a Statistics and Quantitative Modeling major with a strong foundation in mathematics, data science, and computing, currently completing my undergraduate studies at Baruch College. My interest in statistics and data-driven modeling has guided my academic focus toward rigorous statistical theory, applied machine learning, and quantitative problem-solving. I have emphasized the development of mathematical, computational, and analytical tools to understand and solve real-world problems.
+
+Beyond technical work, I am passionate about collaboration, teaching, and knowledge sharing. As Vice President of the Machine Learning and Data Science Club, I lead hands on workshops covering core machine learning concepts, modeling workflows, and practical implementations in Python. These experiences have strengthened my ability to communicate complex ideas to a non-technical audience and work effectively in collaborative, learning-focused environments.
+
+As I prepare for graduate study, I am excited to continue deepening my theoretical understanding while building models and systems that bridge statistical theory with practical application.
 
 ---
 
@@ -80,6 +81,6 @@
 ---
 
 ##  Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahia-taraf-952352302/)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yahiataraf2004@me.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahia-taraf-952352302/](http://www.linkedin.com/in/yahiataraf)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yahiataraf2004@me.com)  
 
 ---
