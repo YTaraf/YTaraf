@@ -81,6 +81,6 @@ As I prepare for graduate study, I am excited to continue deepening my theoretic
 ---
 
 ##  Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahia-taraf-952352302/](http://www.linkedin.com/in/yahiataraf)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yahiataraf2004@me.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/yahiataraf)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yahiataraf2004@me.com)  
 
 ---
