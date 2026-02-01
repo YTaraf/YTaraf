@@ -1,7 +1,7 @@
 # Hi, I'm Yahia (Ya-Ya) Taraf 
 
-🎓 **Statistics & Machine Learning Enthusiast**  
-🔬 Aspiring **Statistician** 
+ **Statistics & Machine Learning Enthusiast**  
+ Aspiring **Statistician** 
 
 ---
 
@@ -27,9 +27,11 @@ As I prepare for graduate study, I am excited to continue deepening my theoretic
 
 ---
 
-**Student Mentor -MTH 5000: Applied Forecasting of Financial Data (Jan 2026 – Present)** 
-📍 *New York, NY*  
-### ⌨️ [Course Repository](https://github.com/YTaraf/Mth_5000)
+##  Leadership & Community  
+
+**Student Mentor -MTH 5000: Applied Forecasting of Financial Data (Jan 2026 – Present)**    
+ *New York, NY*  
+### [Course Repository](https://github.com/YTaraf/Mth_5000)
 **Credit-Bearing Course | Python | Pandas | Financial APIs | Time Series | Machine Learning**  
 - Designed and maintain a **semester-long applied forecasting course of 5 students** focused on real-world financial time series  
 - Taught **statistical and ML forecasting methods** including ARIMA, regression, and machine learning  
@@ -38,11 +40,9 @@ As I prepare for graduate study, I am excited to continue deepening my theoretic
   
 ---
 
-##  Leadership & Community  
-
 **Vice President – Machine Learning & Data Science Club (Jan 2025 – Present)**  
-📍 *New York, NY*  
-### ⌨️ [Workshop Repository](https://github.com/YTaraf/Work_Shops)
+ *New York, NY*  
+### [Workshop Repository](https://github.com/YTaraf/Work_Shops)
 - Designed and led **interactive workshops** on core ML and data science concepts  
 - Developed **learning materials** (Jupyter notebooks, datasets, project-based assignments)  
 - Coordinated **logistics and collaborations**, ensuring engaging, hands-on learning for participants   
@@ -51,7 +51,7 @@ As I prepare for graduate study, I am excited to continue deepening my theoretic
 
 ##  Featured Projects  
 
-### 🚗 [Car Rental Database](https://github.com/YTaraf/Data_Bases)  
+### [Car Rental Database](https://github.com/YTaraf/Data_Bases)  
 **PostgreSQL | Python | SQL**  
 - Designed a relational database modeling car rental entities  
 - Built **ETL pipelines** in Python for data integration  
@@ -59,7 +59,7 @@ As I prepare for graduate study, I am excited to continue deepening my theoretic
 
 ---
 
-### 🗳️ [Politics & Finance](https://github.com/YTaraf/Analytics_Projects/tree/main/Politics%20%26%20Finance)  
+### [Politics & Finance](https://github.com/YTaraf/Analytics_Projects/tree/main/Politics%20%26%20Finance)  
 **Python | Web Scraping | API Integration**  
 - Scraped election polling data and integrated real-time stock market APIs  
 - Analyzed connections between **political events and market movements**  
@@ -67,7 +67,7 @@ As I prepare for graduate study, I am excited to continue deepening my theoretic
 
 ---
 
-### 🏥 [Insurance Analysis](https://github.com/YTaraf/Analytics_Projects/tree/main/Insurance%20Analysis)  
+### [Insurance Analysis](https://github.com/YTaraf/Analytics_Projects/tree/main/Insurance%20Analysis)  
 **R | Statistical Modeling**  
 - Modeled insurance claims to estimate **policyholder risk**  
 - Conducted regression diagnostics and statistical inference  
@@ -75,7 +75,7 @@ As I prepare for graduate study, I am excited to continue deepening my theoretic
 
 ---
 
-### 💼 [Salary Prediction](https://github.com/YTaraf/Analytics_Projects/tree/main/Salary%20Prediction)  
+### [Salary Prediction](https://github.com/YTaraf/Analytics_Projects/tree/main/Salary%20Prediction)  
 **R | Predictive Analytics**  
 - Built regression models to predict salaries from **demographics and job features**  
 - Applied **feature selection & evaluation** to improve accuracy  
