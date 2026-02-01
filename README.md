@@ -40,7 +40,7 @@ As I prepare for graduate study, I am excited to continue deepening my theoretic
 
 ##  Leadership & Community  
 
-**Workshop Director – Machine Learning & Data Science Club (Jan 2025 – Present)**  
+**Vice President – Machine Learning & Data Science Club (Jan 2025 – Present)**  
 📍 *New York, NY*  
 ### ⌨️ [Workshop Repository](https://github.com/YTaraf/Work_Shops)
 - Designed and led **interactive workshops** on core ML and data science concepts  
