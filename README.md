@@ -40,8 +40,6 @@ As I prepare for graduate study, I am excited to continue deepening my theoretic
   
 ---
 
-**Vice President – Machine Learning & Data Science Club (Jan 2025 – Present)**  
- *New York, NY*  
 ### [Workshop Repository](https://github.com/YTaraf/Work_Shops)
 - Designed and led **interactive workshops** on core ML and data science concepts  
 - Developed **learning materials** (Jupyter notebooks, datasets, project-based assignments)  
@@ -49,40 +47,7 @@ As I prepare for graduate study, I am excited to continue deepening my theoretic
 
 ---
 
-##  Featured Projects  
 
-### [Car Rental Database](https://github.com/YTaraf/Data_Bases)  
-**PostgreSQL | Python | SQL**  
-- Designed a relational database modeling car rental entities  
-- Built **ETL pipelines** in Python for data integration  
-- Executed complex SQL queries (window functions, aggregations) to analyze rental trends  
-
----
-
-### [Politics & Finance](https://github.com/YTaraf/Analytics_Projects/tree/main/Politics%20%26%20Finance)  
-**Python | Web Scraping | API Integration**  
-- Scraped election polling data and integrated real-time stock market APIs  
-- Analyzed connections between **political events and market movements**  
-- Developed visualizations for actionable financial insights  
-
----
-
-### [Insurance Analysis](https://github.com/YTaraf/Analytics_Projects/tree/main/Insurance%20Analysis)  
-**R | Statistical Modeling**  
-- Modeled insurance claims to estimate **policyholder risk**  
-- Conducted regression diagnostics and statistical inference  
-- Proposed pricing strategies for **premium optimization**  
-
----
-
-### [Salary Prediction](https://github.com/YTaraf/Analytics_Projects/tree/main/Salary%20Prediction)  
-**R | Predictive Analytics**  
-- Built regression models to predict salaries from **demographics and job features**  
-- Applied **feature selection & evaluation** to improve accuracy  
-- Interpreted model results to highlight significant predictors  
-
-
----
 
 ##  Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/yahiataraf)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yahiataraf2004@me.com)  
