@@ -81,13 +81,6 @@ As I prepare for graduate study, I am excited to continue deepening my theoretic
 - Applied **feature selection & evaluation** to improve accuracy  
 - Interpreted model results to highlight significant predictors  
 
----
-
-##  Research & Academic Interests
-- **Statistical Analysis** – inference, modeling, and data-driven insights  
-- **Computational Statistics** – algorithms for large-scale and complex data  
-- **Probability Theory & Mathematics** – rigorous foundation for ML & AI  
-- **Machine Learning** – bridging statistical theory and real-world applications  
 
 ---
 
