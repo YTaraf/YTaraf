@@ -27,18 +27,16 @@ As I prepare for graduate study, I am excited to continue deepening my theoretic
 
 ---
 
-##  Leadership & Community  
+##  Research and Projects
 
-**Student Mentor -MTH 5000: Applied Forecasting of Financial Data (Jan 2026 – Present)**    
- *New York, NY*  
-### [Course Repository](https://github.com/YTaraf/Mth_5000)
-**Credit-Bearing Course | Python | Pandas | Financial APIs | Time Series | Machine Learning**  
-- Designed and maintain a **semester-long applied forecasting course of 5 students** focused on real-world financial time series  
-- Taught **statistical and ML forecasting methods** including ARIMA, regression, and machine learning  
-- Organized all materials into **weekly lecture modules** with reproducible Jupyter notebooks and datasets  
-- Students complete a **capstone-style forecasting project** with evaluation, interpretation, and reporting
+**AI and ML Undergraduate Researcher | (Jan 2026 – May 2026)**    
+### [Project Repository](https://github.com/YTaraf/Undergraduate_Projects/tree/main/Applied_Forecasting_of_Financial_Data)
+- Led a semester-long undergraduate research project comparing statistical and machine learning forecasting models (ARIMA, SARIMA, XGBoost, LSTM) on real-world financial time series data.
+- Designed the experimental framework for model training, validation, backtesting, and performance evaluation using statistical error metrics.
+- Built end-to-end forecasting pipelines using financial APIs, data preprocessing, feature engineering, and model implementation in Python.
   
 ---
+**VP of Machine Learning and Data Science Club | (Jan 2025 – May 2026)**    
 
 ### [Workshop Repository](https://github.com/YTaraf/Work_Shops)
 - Designed and led **interactive workshops** on core ML and data science concepts  
