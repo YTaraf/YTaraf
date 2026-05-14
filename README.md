@@ -15,14 +15,14 @@ As I prepare for graduate study, I am excited to continue deepening my theoretic
 
 ##  Technical Skills  
 
-###  Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)  
+### Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
 
-###  Libraries & Ecosystem  
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-005C5C?logo=plotly&logoColor=white)  ![Seaborn](https://img.shields.io/badge/Seaborn-4B77A9?logo=python&logoColor=white)  ![Tidyverse](https://img.shields.io/badge/Tidyverse-1A162D?logo=rstudio&logoColor=white)  ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white)  ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-2B579A?logo=python&logoColor=white)  ![Requests](https://img.shields.io/badge/Requests-4A4A55?logo=python&logoColor=white)  
+### Libraries & Ecosystem  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![statsmodels](https://img.shields.io/badge/statsmodels-1F77B4?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4B77A9?logo=python&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white) ![Tidyverse](https://img.shields.io/badge/Tidyverse-1A162D?logo=rstudio&logoColor=white)
 
-###  Tools & Environments  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)  ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=google-colab&logoColor=black)  ![RStudio](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?logo=visual-studio-code&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) 
+### Tools & Environments  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=google-colab&logoColor=black) ![RStudio](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?logo=visual-studio-code&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white) ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?logo=overleaf&logoColor=white)
 
 ---
 
@@ -47,6 +47,6 @@ As I prepare for graduate study, I am excited to continue deepening my theoretic
 
 
 ##  Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/yahiataraf)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yahiataraf2004@me.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/yahiataraf)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yahia.a.taraf@gmail.com)  
 
 ---
