@@ -1,7 +1,6 @@
 # Hi, I'm Yahia (Ya-Ya) Taraf 
 
  **Statistics & Machine Learning Enthusiast**  
- Aspiring **Statistician** 
 
 ---
 
