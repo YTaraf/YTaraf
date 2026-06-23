@@ -5,11 +5,10 @@
 ---
 
 ##  About Me
-I am a Statistics and Quantitative Modeling major with a strong foundation in mathematics, data science, and computing, currently completing my undergraduate studies at Baruch College. My interest in statistics and data-driven modeling has guided my academic focus toward rigorous statistical theory, applied machine learning, and quantitative problem-solving. I have emphasized the development of mathematical, computational, and analytical tools to understand and solve real-world problems.
+I am a Applied Mathematics Graduate student at Hunter College, building on my background in Statistics and Quantitative Modeling from Baruch College. My academic interests lie at the intersection of Mathematical Modeling, Machine Learning, and Quantitative Methods, with a focus on developing rigorous analytical tools to solve real world problems.
 
-Beyond technical work, I am passionate about collaboration, teaching, and knowledge sharing. As Vice President of the Machine Learning and Data Science Club, I lead hands on workshops covering core machine learning concepts, modeling workflows, and practical implementations in Python. These experiences have strengthened my ability to communicate complex ideas to a non-technical audience and work effectively in collaborative, learning-focused environments.
+Through my graduate studies, I am expanding my foundation in advanced mathematics and applied methods through coursework in Advanced Probability and Statistics, Quantitative Finance, and Spatio-Temporal Statistics. I am excited to continue developing my expertise in applied mathematics while exploring the connections between statistical theory, computational methods, and practical applications.
 
-As I prepare for graduate study, I am excited to continue deepening my theoretical understanding while building models and systems that bridge statistical theory with practical application.
 
 ---
 
