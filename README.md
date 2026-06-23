@@ -27,14 +27,12 @@ Through my graduate studies, I am expanding my foundation in advanced mathematic
 
 ##  Research and Projects
 
-**AI and ML Undergraduate Researcher | (Jan 2026 – May 2026)**    
 ### [Project Repository](https://github.com/YTaraf/Undergraduate_Projects/tree/main/Applied_Forecasting_of_Financial_Data)
 - Led a semester-long undergraduate research project comparing statistical and machine learning forecasting models (ARIMA, SARIMA, XGBoost, LSTM) on real-world financial time series data.
 - Designed the experimental framework for model training, validation, backtesting, and performance evaluation using statistical error metrics.
 - Built end-to-end forecasting pipelines using financial APIs, data preprocessing, feature engineering, and model implementation in Python.
   
 ---
-**VP of Machine Learning and Data Science Club | (Jan 2025 – May 2026)**    
 
 ### [Workshop Repository](https://github.com/YTaraf/Work_Shops)
 - Designed and led **interactive workshops** on core ML and data science concepts  
