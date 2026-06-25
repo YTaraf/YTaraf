@@ -1,6 +1,6 @@
 # Hi, I'm Yahia (Ya-Ya) Taraf 
 
- **Statistics & Machine Learning Enthusiast**  
+ **Mathematics, Statistics & Machine Learning Enthusiast**  
 
 ---
 
