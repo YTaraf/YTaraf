@@ -5,10 +5,9 @@
 ---
 
 ##  About Me
-I am a Applied Mathematics Graduate student at Hunter College, building on my background in Statistics and Quantitative Modeling from Baruch College. My academic interests lie at the intersection of Mathematical Modeling, Machine Learning, and Quantitative Methods, with a focus on developing rigorous analytical tools to solve real world problems.
+I am an Applied Mathematics graduate student at Hunter College, building on my background in Statistics and Data Science from Baruch College. My interests lie at the intersection of advanced mathematics and machine learning, with a particular focus on applying machine learning to Spatio-Temporal systems and using data-driven approaches to solve various problems.
 
-Through my graduate studies, I am expanding my foundation in advanced mathematics and applied methods through coursework in Advanced Probability and Statistics, Machine Learning, and Spatio-Temporal Statistics. I am excited to continue developing my expertise in applied mathematics while exploring the connections between statistical theory, computational methods, and practical applications.
-
+Through my academic and research experience, I have worked with statistical modeling, machine learning, and forecasting using tools such as Python, R, and SQL. I am particularly interested in understanding the mathematical foundations behind these methods and exploring how they can be applied to complex, real-world systems.
 
 ---
 
